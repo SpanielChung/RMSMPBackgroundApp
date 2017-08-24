@@ -8,7 +8,7 @@ namespace RMSMPBackgroundApp
 {
     static class Settings
     {
-        // see if this commits
+
         static string iotHubUri = "BTSIoTExample.azure-devices.net"; 
         static string deviceId = "danspi"; 
         static string deviceKey = "DU16pNDxrTsRmhC7/sIgDQO3j6n+HvZamxWqkToPogg="; 
